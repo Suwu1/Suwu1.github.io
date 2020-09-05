@@ -1,0 +1,109 @@
+
+body{
+	background-color:#f04935;
+
+}
+
+
+
+.top{
+	font-size: 50px;
+	font-size: 180px;
+    animation: colorchange 5s infinite;
+
+
+}
+@keyframes colorchange {
+	0% {
+		color: white;
+
+	}
+	100%{
+		color:#2e3b8e;
+
+	}
+}
+.rectangle {
+  height: 20px;
+  width: 600px;
+  background-color:white ;
+  text-align: left;
+  text-align: right;
+  }
+
+.rectangle1 {
+  height: 20px;
+  width: 600px;
+  background-color:white ;
+  text-left: right;
+  text-align: left;
+  margin-left: 700px;
+  }
+.poster {
+    display: grid;
+    /* 45.45% 54.55% 1:~1.2 */
+    grid-template-columns: 1fr 1.2fr;
+    /* 32.25% 32.25% 35.5% 1:1:~1.1 */
+    grid-template-rows: 1fr 1fr 1.1fr;
+    width: 1em;
+    height: 100vh;
+    margin: 0 auto;
+    color: #dfe3d4;
+    background-color: #00000a;
+}
+
+.bottom{
+	font-family: times;
+	font-size: 80px;
+	position: fixed;
+	bottom: 0px;
+	/*background: #539bd4;*/
+	text-align:right;
+	color:white;
+
+
+}
+
+.name{
+	color:#2e3b8e;
+	font-size: 90px;
+	font-family: Krungthep ;
+	background-color: white;
+	margin-left: 500px;
+}
+
+
+.tittle{
+	color:#2e3b8e;
+	text-align: left;
+	font-size: 150px;
+	font-family: Krungthep ;
+  
+}
+.tittle1{
+	color:#2e3b8e;
+	font-family: Krungthep ;
+	font-size: 150px;
+
+}
+
+span {
+	color:white;
+	font-size: 190px;
+	font-family: Acumin Variable Concept ;
+	text-align:right;
+	margin-left: 100px;
+}
+
+.M{
+	writing-mode: vertical-rl;
+}
+
+
+
+
+
+
+
+
+
