@@ -1,0 +1,74 @@
+nav
+  reader title, current page, next article
+
+start page
+  h1 page title
+  image
+  quote
+
+  h1 title
+  left col:   article title, authors name
+  right col:  introduction
+
+  h1 title
+  left col:   footnotes
+  right col:  text
+
+  h1 title
+  left col:   footnotes
+  right col:  text
+
+  biographies title
+  5 col:      each with a reference
+  
+  footer
+  copyright, extra info
+end page
+
+
+-----------------
+navigation content
+Digital Mirrors
+Journey to the Centre of Google Earth
+Next article
+
+-----------------
+quote
+“We want to create a digital mirror of the world.” Google Earth Outreach geo-strategist Karin Tuxen-Bettman, aboard a Google boat photographing and mapping the Amazon, 2011
+
+-----------------
+essay title
+Journey to the Centre of Google Earth by Simon Sellars
+
+-----------------
+copyright
+This essay was commissioned by Anne Hilde Neset for Only Connect Festival Of Sound 2014: J.G. Ballard. It was published in the Only Connect catalogue, May 2014, edited by Anne Hilde Neset and Audun Vinger. Thank you to NyMusikk and Only Connect for permission to republish it here.
+
+-----------------
+essay
+When you open Google Earth, it settles at the default elevation of 11,000 km above the planet. The effect is tranquil, partly from the soft-glow space panorama and partly from the sense of disengagement. The crystal-clear imagery, supplied by NASA, depicts the world in a photoreal representation. It is the ultimate expression of what cartographers call the God’s-eye view: the desire for absolute visual objectivity in maps, presenting every region of the globe in its proper place.
+
+But maps lie. They naturalise the planet’s boundaries and endpoints in ways that serve ulterior motives. The most popular map of the world, the Mercator projection, is a cartographic model of reality founded on a blatant misrepresentation. In the Mercator world, countries are not relative to each other. The sizes of North American and European countries are wildly inflated, while those of third-world nations are greatly diminished. During the 1970s and 80s, the so-called “map wars” were fought, during which a new map, the Gall-Peters projection, was pitted against the Mercator, which stood accused of being a repressive symbol of Eurocentric colonialism.
+
+Greenland [title]
+
+[footnote]
+As a child, I was fascinated with world maps, which were always Mercator. It wasn’t until my teenage years that I realised Greenland was not twice as large as Australia, as the Mercator projection asserts, but that Australia in reality was three times larger than Greenland. 
+
+Google Earth is more than the God’s-eye view – more than just us mortals seeing through the eyes of God. In Google Earth, we are God. We see over, under, inside and out. We see into the beyond, with a second sight unavailable to our mortal selves. We see ghosts of dead friends and dead strangers. We see ourselves. If the colonial God’s-eye view in Mercator maps is an uneasy settling of the planet (hoping the savages will stay in their place and not upset the prescribed order), then Google Earth, with its forking paths Google Maps and Google Street View, is a parallel world bleeding into this one.
+
+[footnote]
+“Copyright traps” are fake features cartographers insert into maps to catch plagiarists. If the map is copied and published without permission, it can be traced due to the inclusion of a street leading in the wrong direction, or a building that doesn’t exist. In Street View, such impossible objects are a matter of course. 
+
+Google boundaries are porous. They dissolve. I have never seen anything so beautiful in all my life as the melting freeways of the USA, the next nature of glitched-out Google projections. In Google Earth, images are spliced together, taken at different times of day. Sometimes you can see the joins, where the process hasn’t fully knitted. It might be an RGB-separated cloud of light surrounding an object, or a pink-yellow pixel-glitch tornado rising to the sky. Sometimes in Street View, if your connection is slow, when moving through a city, the interlacing mechanism is revealed. You can see the front of a building sliding in over the background, compressing the architecture into a narrow band of light so that it appears to be a paper-thin facade slipping into place. Reality becomes a stage set, the scenery changing before your eyes.
+
+Map wars [title]
+
+[footnote]
+I float in space, watching the Earth from 11,000 km out, the God’s-eye view. Greenland, Iceland, Denmark, Norway, Sweden, Finland… pinpricks of light on the Google projection. They are all linked in my mind.
+
+Sometimes, the Google Earth algorithm maps one texture over another to produce beguiling landscapes. A freeway overpass, suspended high above the ground, follows precisely the undulating terrain of a large valley, producing a contorted, fluid road system from another dimension. Clouds smear over the contours of a mountain, like a form-fitting, fluffy white blanket. Skyscrapers are laid flat against the ground, yet, impossibly, impart a three-dimensional sense of height. Google Earth is a digitised Mercator, squashing disproportionate dimensions into a totalising system with its own internal logic (Google Maps are actually based on a Mercator variant). When Apple’s iPhone maps also began spewing out strange new topologies at a rapid rate, the company was roundly mocked, yet I thought them immensely poetic, a world I would very much like to live in: Steve Jobs’ reality distortion field.
+
+The Google camera sees everything, even that which is invisible to the naked eye. Recently, Luboš Motl, a Czech blogger, wrote about how he would feel an uncomfortable tingling in his buttocks, like many ants stinging him, when riding his bicycle under certain power lines. He noted that his bicycle seat has a hole in it, revealing exposed metal just a few centimetres away from his body. Combined with his sweat from the bike ride, he surmised that he must have been conducting an unusually high electrical field through his body generated by the power lines. He posted screen grabs from Street View that appeared to confirm this hypothesis. The images displayed bright cyan and pink clouds following the power lines under which he rode, presumably a revelation of the supercharged electromagnetic field that had infiltrated his being with such a baffling sensation.
+
+Unsurprisingly, Street View even sees ghosts. Inside this strange mechanism, I flick a switch and  zoom in to my childhood home, which I sold recently after my parents were taken ill. I look into our former backyard and see my father there. I try to get closer but I am repelled by the absolute limits of the zoom function. Dad’s face is duly blurred but he is walking purposefully. There is no sign of the broken hip that made him reliant on a walking frame, no sign of the rapidly advancing symptoms of dementia that now afflicts him. He is frozen in time-sickness. As I advance to the next frame, his pixels are squeezed through an interlaced crack in the algorithm. I am lost between worlds, like a louse trying to find a crack of daylight in a crumpled bed sheet. Everything passes through us now: electromagnetic waves; tweets bouncing from mobile phone towers through our bodies; images of our dead and dying loved ones. The machine teaches us how to remember.

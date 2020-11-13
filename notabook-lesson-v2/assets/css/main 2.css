@@ -1,0 +1,64 @@
+.backgroud{
+	background-color:lightgrey;
+	padding: 20px;
+    
+	
+}
+
+.quote {
+  width: 95vw;
+  height: 50vh;
+  display: flex;
+  flex-wrap: wrap;
+
+  text-align: center;
+  margin-right: 30px;
+  margin-left: 30px;
+}
+
+.img {
+  
+  text-align: center;
+  color: #ec8723;
+  font-family: Blockhead OT DarkSide;
+  font-size: 25px;
+}
+h1 {
+   font-family: Blockhead OT BlackFace;
+   font-size: 60px;
+   color: black;
+   text-align: center;
+  
+}
+
+
+h2 { 
+font-family: Blockhead OT BlackFace; 
+font-size: 30px;
+justify-content:right;
+color: #ec8723;
+margin-top: -40px;
+}
+
+h3 {
+  font-family: Blockhead OT Unplugged ;
+  font-size: 25px;
+ 
+
+}
+
+
+h4 {
+   column-count: 2;
+   font-family: Quicksand;
+   line-height: 1.5;
+}
+
+h5 {
+  column-count: 2;
+}
+
+
+
+
+
