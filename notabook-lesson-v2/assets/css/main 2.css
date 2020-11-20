@@ -1,0 +1,112 @@
+.all-browsers {
+  margin: 0;
+  padding: 5px;
+  background-color: lightgray;
+}
+
+.all-browsers > h1, .browser {
+  margin: 10px;
+  padding: 5px;
+}
+
+.browser {
+  background: white;
+  box-shadow: 10px 5px 10px 5px darkgray;
+}
+
+.browser > h2, p {
+  margin: 4px;
+  font-size: 90%;
+}
+
+.backgroud{
+  background-color:lightgrey;
+  padding: 20px;
+}
+
+.quote {
+  width: 95vw;
+  height: 50vh;
+  display: flex;
+  flex-wrap: wrap;
+
+  text-align: center;
+  margin-right: 30px;
+  margin-left: 30px;
+}
+
+.img {
+  
+  text-align: center;
+  color: #ec8723;
+  font-family: Blockhead OT DarkSide;
+  font-size: 25px;
+
+}
+
+.footnote h2 {
+  font-size: 13px;
+  line-height: 20px;
+  color: #ec8723;
+  margin-top: 20px;
+  font-family: arial;
+}
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  border-top: 1px solid black;
+  margin-top: 100px;
+}
+
+.text {
+  width: 45%;
+  margin-left: 90px;
+  line-height: 1.2;
+}
+
+.figure {
+  width: 45%;
+}
+
+.figure img {
+  width: 100%;
+}
+
+
+h1 {
+   font-family: Blockhead OT BlackFace;
+   font-size: 60px;
+   color: black;
+   text-align: center;
+  
+}
+
+
+h2 { 
+  font-family: Blockhead OT BlackFace; 
+  font-size: 30px;
+  justify-content:right;
+  color: #ec8723;
+  margin-top: -40px;
+  margin-right: 20px; 
+
+}
+
+h3 {
+  font-family: Blockhead OT Unplugged ;
+  font-size: 25px;
+ 
+
+}
+
+
+h4 {
+   column-count: 2;
+   font-family: Quicksand;
+   line-height: 1.5;
+}
+
+h5 {
+  column-count: 2;
+}

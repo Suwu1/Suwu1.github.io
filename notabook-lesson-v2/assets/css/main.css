@@ -1,0 +1,133 @@
+.backgroud{
+	background-color:lightgrey;
+	padding: 20px;
+    
+	
+}
+
+.quote {
+  width: 90vw;
+  height: 50vh;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+
+
+h1 {
+  font-size: 100px;
+  font-family: zubilo-shadow;
+  text-align: center;
+  line-height: 1.3;
+  
+}
+
+.intro {
+	color: #ed860a;
+	font-size: 20px;
+	text-align: right;
+  margin-top: -20px;
+  line-height: 1.3;
+
+
+  
+}
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 50px;
+
+}
+
+.figure {
+  width:60%;
+}
+
+.figure img {
+  width: 150%;
+ 
+
+}
+
+.text {
+  line-height: 1.3;
+  column-rule-style: solid;
+  text-align: justify;
+  /*column-count: 2;*/
+  
+}
+
+.text1 {
+  width: 30%;
+  line-height: 1.3;
+  column-rule-style: solid;
+  text-align: justify;
+  
+}
+
+.p2 {
+	text-align: justify;
+  column-count: 4;
+  line-height: 1.3;
+/*        column-width: 200px;*/
+  column-gap:30px;
+  column-rule-style: solid;
+  column-rule-width: 5px;
+  column-rule-color: darkgrey;
+
+}
+
+.p3 {
+  text-align: justify;
+  column-count: 3;
+  line-height: 1.3;
+/*        column-width: 200px;*/
+  column-gap:30px;
+  column-rule-style: solid;
+  column-rule-width: 5px;
+  column-rule-color: darkgrey;
+}
+
+
+h4 {
+  font-weight: bold;
+  font-size: 30px ;
+  color: #ed860a;
+  line-height: 1.3;
+}
+
+.footnote p {
+  font-size: 13px;
+  line-height: 20px;
+  color: gray;
+  margin-top: 20px;
+  font-family: arial;
+}
+
+.style {
+
+
+}
+
+.row{ 
+ display:flex;
+ flex-wrap:wrap;
+ 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
