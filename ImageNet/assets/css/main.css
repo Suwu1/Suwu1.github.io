@@ -1,0 +1,175 @@
+body {
+	font-family: Helvetica,Arial,sans-serif;
+	font-size: 17px;
+	background-color:#d8d7e9;
+}
+
+a {
+	
+}
+
+.title{
+    font-family:zubilo shadow, sans-serif;
+font-style: normal;
+font-weight: 400;
+	/*font-size: 85px;*/
+	text-align: center;
+	color: #3e348d; 
+    font-size: 10.5vw;
+}
+.nav{
+	display: flex;
+	/*justify-content: space-around;*/
+	background-color:#d8d7e9;
+	text-align: center;
+	font-family:liebedoni-outline, sans-serif;
+	
+}
+.btn{
+	border:2px solid white;
+    padding:0.8vw;
+    margin: 0.8vw;
+    border-radius: 4vw;
+    font-size: 4.2vw;
+    text-align: center;
+    left: 35%;
+}
+
+
+.item{
+	background-color: gray;
+	transition:2s;
+
+}
+
+.item:hover {
+	background-color: ;
+	transition:2s;
+}
+
+
+
+.btn:hover{
+	background-color: black;
+	color: white;
+	cursor: pointer;
+}
+.word{
+	font-family:Arial Rounded MT Bold;
+	font-size: 25px;
+	text-align: center;
+	color: white ;
+}
+
+
+
+.big{
+	color: #ccdaf0;
+	font-family: Savoye LET Plain;
+	font-size: 5vw;
+	
+}
+.sub{
+	text-align: center;
+	font-size: 8vw;
+	font-family: Arial Rounded MT Bold;
+
+}
+
+
+div.item {
+  display: block;
+  margin: 5px;
+  border: 2px solid #ecefab;
+  float: left;
+  width: 30vw;
+  padding: 1vw;
+  background-color: white;
+  text-shadow: 3px 3px 10px 10px;
+}
+
+div.item:hover {
+  border: 2px solid #4952a3;
+}
+
+div.item img {
+  width: 100%;
+  height: 30vw;
+  max-width:100%;
+    display: block;
+}
+
+div.desc {
+  padding: 5vw;
+  text-align: center;
+}
+
+.item.hide{
+	display: none;
+}
+
+
+/*iphone*/
+@media (max-width: 450px){
+	body{
+		background-color: #f393bd;
+		font-size: 15px;
+
+	}
+.title {
+	font-size: 45px;
+}
+
+.nav {
+	background-color: #ffe4c9;
+	}
+
+ div.item {
+  display: block;
+  margin: 5px;
+  border: 2px solid #ecefab;
+  float: center;
+  width: 90vw;
+  padding: 1vw;
+  background-color:white;
+  margin-left: 20px;
+}
+
+div.item:hover {
+  border: 2px solid #4952a3;
+}
+
+div.item img {
+  width: 550%;
+  height: 80vw;
+  max-width:100%;
+    display: block;
+} 
+
+
+
+
+
+
+
+/*pad*/
+@media (max-width: 950px){
+    body{
+    	background-color: #ffe4c9;
+    	font-size: 12px;
+    	margin-left: 20px;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
